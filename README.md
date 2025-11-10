@@ -1,7 +1,5 @@
 # 🚀 Sistema de Gerenciamento de Clientes
 
-Projeto Full-Stack desenvolvido com **NestJS** (backend) e **Next.js 14** (frontend) para gerenciamento completo de clientes.
-
 ## 📋 Índice
 
 - [Tecnologias Utilizadas](#tecnologias-utilizadas)
@@ -295,16 +293,9 @@ npx prisma migrate reset
 npx prisma migrate dev
 ```
 
-## 👤 Autor
-
-Desenvolvido como parte do Desafio MayTech
-
-## 📄 Licença
-
-Este projeto está sob a licença MIT.
 ```
 
-Pronto! Criei o projeto completo conforme especificado no desafio. O sistema inclui:
+O sistema inclui:
 
 ## ✅ **Backend (NestJS)**
 - Estrutura modular com Prisma ORM
